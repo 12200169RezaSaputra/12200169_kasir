@@ -67,7 +67,7 @@ function rupiah($angka)
                     aria-label="Close"></button>
             </div>
             <div class="modal-body">
-                <p>Maaf. Fitur ini sedang dalam pengembangan.</p>
+                <p>Mohon maaf :(</p>
             </div>
             <div class="modal-footer"><button class="btn btn-light" type="button" data-bs-dismiss="modal">Tutup</button>
             </div>
